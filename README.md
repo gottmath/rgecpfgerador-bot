@@ -8,3 +8,7 @@ Utiliza-se os comandos slash (/) para a execução dos comandos de geração e v
 > /gerarrg
 > /validarcpf
 > /validarrg
+
+**Extra**
+É necessário ter _Node.js_, e irá importar a biblioteca do Discord.js (npm install discord.js). Após, 
+só precisa executá-lo com _node bot.js_.
