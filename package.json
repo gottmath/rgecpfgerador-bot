@@ -1,0 +1,19 @@
+{
+  "name": "bot-gera-cpferg",
+  "version": "1.0.0",
+  "description": "é um bixo pra validar e gerar cpf e rg",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "cpf"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.22.1"
+  }
+}
